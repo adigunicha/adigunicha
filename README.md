@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michael
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning react javascript
-- 💞️ I’m looking to collaborate on a javascript pro
+- 👀 I’m a frontend developer 
+- 🌱 I’m still buiding and learning 
+- 💞️ I’m looking to collaborate with Frontend devs 
 
 
 <!---
